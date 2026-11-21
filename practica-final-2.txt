@@ -1,0 +1,12 @@
+Problemática:
+la empresa estadounidense American Megadesign ésta realizando un nuevo modelo de muebles basados en los planos del 
+famoso Diseñador Industrial Italiano Martin Vaccoto, pero muchas piezas no encajan correctamente dado que los 
+planos esán en centímetros y las maquinarias americanas están en pulgadas.
+---------------------------------------------------
+Algorítmo:
+
+1. Solicitar al usuario las medidas de las piezas del mueble en centimetros.
+2. definir la conversion centimetros a pulgadas.   1" = 2.54 cm.
+3. Conversión de las medidas en centimetros a pulgadas.
+4. Mostrar al usuario la conversion.
+
